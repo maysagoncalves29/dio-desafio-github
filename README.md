@@ -1,2 +1,2 @@
-# dio-desafio-github
+# Projeto Desafio Dio
 Meu primeiro repositório.
