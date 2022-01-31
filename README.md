@@ -9,5 +9,7 @@ Todo dev iniciante pergunta-se sobre comandos ou até mesmo esquecemos de alguns
 #  O que o compõe?#
 --> Conceitos básicos:
 -Arquivos guardados dentro do objeto "blob" = objeto que encapsula o comportamento dos diretórios;
+
 -"Tree" armazena "blobs". É uma crescente, armazena e aponta para tipos e blobs diferentes;
+
 -"Commits" ninguém altera. Monta uma linha do tempo e é seguro/confiável.
